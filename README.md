@@ -1,7 +1,7 @@
 ## Bloc Quiz - Flutter
 
 ###### Download
-[![BLoC Quiz](https://img.shields.io/badge/Android-APK-green.svg?style=for-the-badge&logo=android)](https://github.com/PatilShreyas/Foodium/releases/latest/download/app.apk)
+[![BLoC Quiz](https://img.shields.io/badge/Android-APK-green.svg?style=for-the-badge&logo=android)](https://github.com/osmium8/bloc-quiz/blob/main/app-release.apk)
 
 ###### Diagram
 <img src="./diagram.png" height="500px">
