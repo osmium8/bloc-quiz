@@ -21,7 +21,6 @@
 |<img src="./screenshots/auth.png" height="250px">|<img src="./screenshots/main.png" height="250px">|<img src="./screenshots/quiz.png" height="250px">|<img src="./screenshots/scores.png" height="250px">|<img src="./screenshots/result_detail.png" height="250px">|<img src="./screenshots/profile.png" height="250px">|
 
 ###### Features:
-* Implemented the app according to the provided mockups & description.
 * BLOC architecture
 * Firebase
     * Authentication
