@@ -1,15 +1,15 @@
 ## Bloc Quiz - Flutter
 
-<img src="./diagram.png" height="500px">
+<img src="./diagram.png" height="800px">
 
-###### Notes:
-1. To build from source, import `./code` in the IDE, `flutter pub get` then run.
-4. App walkthrough **video** is uploaded on Google Drive, [Play Video](https://drive.google.com/file/d/1fAvqhL-E6EQEPIbp2gGGfHDveGcJ4Jq6/view?usp=share_link).
+###### Build From Source:
+1. import in Android Studio IDE (with Flutter Plugin installed)
+2. `flutter pub get` then run.
 
 
 |Auth|Home|Quiz|Scores|Result|Profile|
 |-----------|-----|-----|-----|-----|-----|
-|<img src="./screenshots/auth.png" height="300px">|<img src="./screenshots/main.png" height="300px">|<img src="./screenshots/quiz.png" height="300px">|<img src="./screenshots/scores.png" height="300px">|<img src="./screenshots/result_detail.png" height="300px">|<img src="./screenshots/profile.png" height="300px">
+|<img src="./screenshots/auth.png" height="250px">|<img src="./screenshots/main.png" height="250px">|<img src="./screenshots/quiz.png" height="250px">|<img src="./screenshots/scores.png" height="250px">|<img src="./screenshots/result_detail.png" height="250px">|<img src="./screenshots/profile.png" height="250px">
 
 ###### Features:
 * Implemented the app according to the provided mockups & description.
