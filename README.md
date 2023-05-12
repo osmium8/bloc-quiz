@@ -1,6 +1,10 @@
 ## Bloc Quiz - Flutter
 
-<img src="./diagram.png" height="800px">
+###### Download
+[![BLoC Quiz](https://img.shields.io/badge/Android-APK-green.svg?style=for-the-badge&logo=android)](https://github.com/PatilShreyas/Foodium/releases/latest/download/app.apk)
+
+###### Diagram
+<img src="./diagram.png" height="500px">
 
 ###### Build From Source:
 1. import in Android Studio IDE (with Flutter Plugin installed)
@@ -9,7 +13,7 @@
 
 |Auth|Home|Quiz|Scores|Result|Profile|
 |-----------|-----|-----|-----|-----|-----|
-|<img src="./screenshots/auth.png" height="250px">|<img src="./screenshots/main.png" height="250px">|<img src="./screenshots/quiz.png" height="250px">|<img src="./screenshots/scores.png" height="250px">|<img src="./screenshots/result_detail.png" height="250px">|<img src="./screenshots/profile.png" height="250px">
+|<img src="./screenshots/auth.png" height="250px">|<img src="./screenshots/main.png" height="250px">|<img src="./screenshots/quiz.png" height="250px">|<img src="./screenshots/scores.png" height="250px">|<img src="./screenshots/result_detail.png" height="250px">|<img src="./screenshots/profile.png" height="250px">|
 
 ###### Features:
 * Implemented the app according to the provided mockups & description.
