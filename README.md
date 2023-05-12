@@ -13,7 +13,8 @@
 
 ###### Build From Source:
 1. import in Android Studio IDE (with Flutter Plugin installed)
-2. `flutter pub get` then run.
+2. `flutter pub get`
+3. setup a new Firebase project, generate `google-services.json` and paste it at `./android/app` directory
 
 
 |Auth|Home|Quiz|Scores|Result|Profile|
