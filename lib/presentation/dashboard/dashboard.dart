@@ -35,7 +35,7 @@ class Dashboard extends StatelessWidget {
                         padding: EdgeInsets.zero,
                         children: [
                           UserAccountsDrawerHeader(
-                            decoration: const BoxDecoration(color: Colors.green),
+                            decoration: const BoxDecoration(color: Colors.blue),
                             accountName: Text(
                               '${currentUser.displayName}',
                               style: const TextStyle(
@@ -58,7 +58,7 @@ class Dashboard extends StatelessWidget {
                               Icons.contact_page,
                             ),
                             title: const Text('My Profile', style: TextStyle(
-                              fontSize: 20,
+                              fontSize: 22,
                             ),),
                             onTap: () {
                               Navigator.of(context).push(PageRouteBuilder(
